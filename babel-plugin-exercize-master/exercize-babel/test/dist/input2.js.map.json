@@ -1,0 +1,1 @@
+{"version":3,"sources":["input2.js"],"names":[],"mappings":"AAAA;AAAqB;IAEjB,AAAO,AAAI;;;AAGf,AAAM,AAAG","file":"input2.js.map.json","sourcesContent":["function minus(a, b) {\n    var c = 3;\n    return a - b;\n}\n\nminus(3, 4);\n"]}
